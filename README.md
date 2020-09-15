@@ -126,7 +126,9 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 ## Limitations:
 * A table that would clarify this further would be the sum of funds pledged per category. The table below depicts that 51% of all funds were pledged in the category of technology despite only a third of the campaigns succeeding.
+
 ![table](Images/table.png)
+
 * One of the limitations of this dataset is that it focuses only on Kickstarter campaigns and does not include other crowdsourcing services. A collection of crowdsourcing platforms may give a different interpretation and we might be able to see differences between platforms in terms of categorical success, popularity, or other factors.
 * Sample size for countries may not be statistically significant because the sample sizes are too small for some countries. In fact, 74% of the data in this dataset is from the US and there was only 1 campaign from SG.
 * An additional limitation could be the location of the backers. Backers from anywhere in the world can fund a campaign so it would be interesting to see if a projects are typically funded by backers in the country of origin or if they are truly funded by people anywhere on the planet. Since different government entities impose different rules and regulations on what is allowed in their countries, some projects may fail simply because users from other countries would not have access to them and therefore would not fund them.
